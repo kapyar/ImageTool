@@ -1,4 +1,8 @@
-*How to use ImageTool app
+ImageTool
+=
+> This is a program which is templating all images in folder. The parameters holds in XML file, wich you created by filling the form. ImageTool use [ImageMagick](http://www.imagemagick.org/) as an engine to convert images. Also you can choose to create thumbnails of these images.
+
+How to use ImageTool app
 
 0. Unzip ImageTool.zip
 
